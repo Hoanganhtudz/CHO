@@ -1,0 +1,32 @@
+.banner-shop{
+    position: relative;
+}
+.text-pro{
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    right: 47%;
+    
+}
+.text-pro h2{
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+.banner-shop img{
+    width: 100%;
+    max-height: 350px;
+    margin-bottom: 100px;
+}
+.icon-pro{
+    color: black;
+    padding-right: 7px;
+}
+.price{
+    color: #f598a4;
+}
+.shop{
+    padding-left: 120px;
+    padding-right: 120px;
+   
+}
